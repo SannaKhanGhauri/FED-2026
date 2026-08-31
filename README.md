@@ -36,14 +36,14 @@ Responsive
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://www.spotify.com/nl/premium/
+https://www.nesquik.nl
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-https://www.spotify.com/nl/premium/
+https://www.nesquik.nl
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-https://www.spotify.com/nl/download/mac/
+https://www.nesquik.nl/fun-breakfast
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
